@@ -1,0 +1,31 @@
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\bin\Debug\Многочлен.exe.config
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\bin\Debug\Многочлен.exe
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\bin\Debug\Многочлен.pdb
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.csproj.AssemblyReference.cache
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.csproj.SuggestedBindingRedirects.cache
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.Form1.resources
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.Properties.Resources.resources
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.csproj.GenerateResource.cache
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.csproj.CoreCompileInputs.cache
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.exe
+C:\Users\Flatren\Desktop\Фриланс\Балтика\Многочлен\Многочлен\obj\Debug\Многочлен.pdb
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\bin\Debug\Многочлен.exe.config
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\bin\Debug\Многочлен.exe
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\bin\Debug\Многочлен.pdb
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.AssemblyReference.cache
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.Form1.resources
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.Properties.Resources.resources
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.GenerateResource.cache
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.CoreCompileInputs.cache
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.exe
+C:\Dasha\ВолГУ\3 курс\визуальное прогр\lab2_vp\Многочлен\obj\Debug\Многочлен.pdb
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\bin\Debug\Многочлен.exe.config
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\bin\Debug\Многочлен.exe
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\bin\Debug\Многочлен.pdb
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.AssemblyReference.cache
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.Form1.resources
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.Properties.Resources.resources
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.GenerateResource.cache
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.csproj.CoreCompileInputs.cache
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.exe
+C:\study\5th_semester\laboratory practice\Visual programing\lab2_vp\Многочлен\obj\Debug\Многочлен.pdb
